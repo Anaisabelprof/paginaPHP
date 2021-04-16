@@ -1,0 +1,20 @@
+body {
+
+	background-color: #A9E2F3;
+}
+
+.intro {
+
+	background-color: #2ECCFA;
+}
+
+#lupa {
+    border-radius: 30px;
+    left: 3%;
+    top: 79%;
+    width: 35%;
+    height: 7%;
+    border: black 1px solid;
+    margin-bottom: 1em;
+}
+
